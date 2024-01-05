@@ -55,7 +55,8 @@ for td in td_tags:
 # Print the list of image URLs
 print(image_urls)
 ```
-['S_230101.jpg', 'S_230102.jpg', 'S_230103.jpg', 'S_230104.jpg', 'S_230105.jpg', 'S_230106.jpg', 'S_230107.jpg', 'S_230108.jpg', 'S_230109.jpg', 'S_230110.jpg', 'S_230111.jpg', 'S_230112.jpg', 'S_230113.jpg', 'S_230114.jpg', 'S_230115.jpg', 'S_230116.jpg', 'S_230117.jpg', 'S_230118.jpg', 'S_230119.jpg', 'S_230120.jpg', 'S_230121.jpg', 'S_230122.jpg', 'S_230123.jpg', 'S_230124.jpg', 'S_230125.jpg', 'S_230126.jpg', 'S_230127.jpg', 'S_230128.jpg', 'S_230129.jpg', 'S_230130.jpg', 'S_230131.jpg']
+![image](https://github.com/sheeksha/WebScraping-Images/assets/69764380/cff5ccad-c2d9-4b10-99dc-cf4dba6407bd)
+
 
 ### 4. Get the image url and download the file
 ```ruby
