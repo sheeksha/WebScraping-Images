@@ -90,37 +90,8 @@ for td in td_tags:
 
         print(f"Image saved: {img_path}")
 ```
-Image saved: apod_images\S_230101.jpg
-Image saved: apod_images\S_230102.jpg
-Image saved: apod_images\S_230103.jpg
-Image saved: apod_images\S_230104.jpg
-Image saved: apod_images\S_230105.jpg
-Image saved: apod_images\S_230106.jpg
-Image saved: apod_images\S_230107.jpg
-Image saved: apod_images\S_230108.jpg
-Image saved: apod_images\S_230109.jpg
-Image saved: apod_images\S_230110.jpg
-Image saved: apod_images\S_230111.jpg
-Image saved: apod_images\S_230112.jpg
-Image saved: apod_images\S_230113.jpg
-Image saved: apod_images\S_230114.jpg
-Image saved: apod_images\S_230115.jpg
-Image saved: apod_images\S_230116.jpg
-Image saved: apod_images\S_230117.jpg
-Image saved: apod_images\S_230118.jpg
-Image saved: apod_images\S_230119.jpg
-Image saved: apod_images\S_230120.jpg
-Image saved: apod_images\S_230121.jpg
-Image saved: apod_images\S_230122.jpg
-Image saved: apod_images\S_230123.jpg
-Image saved: apod_images\S_230124.jpg
-Image saved: apod_images\S_230125.jpg
-Image saved: apod_images\S_230126.jpg
-Image saved: apod_images\S_230127.jpg
-Image saved: apod_images\S_230128.jpg
-Image saved: apod_images\S_230129.jpg
-Image saved: apod_images\S_230130.jpg
-Image saved: apod_images\S_230131.jpg
+![image](https://github.com/sheeksha/WebScraping-Images/assets/69764380/3b74a8b1-fef5-4452-9205-a4850ebb6355)
+
 
 ### 5. Create a collage with the images
 ```ruby
