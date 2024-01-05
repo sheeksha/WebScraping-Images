@@ -128,7 +128,8 @@ for img_path in image_paths:
 collage.save('apod_rectangular_collage.jpg')
 
 print("Rectangular Collage created and saved as apod_rectangular_collage.jpg")
-Rectangular Collage created and saved as apod_rectangular_collage.jpg
+
+
 # Display the collage in the Jupyter Notebook
 display(collage)
 ```
