@@ -132,3 +132,4 @@ Rectangular Collage created and saved as apod_rectangular_collage.jpg
 # Display the collage in the Jupyter Notebook
 display(collage)
 ```
+![image](https://github.com/sheeksha/WebScraping-Images/assets/69764380/d4182f86-f6e2-4f65-9a76-d4eeb4bb4a79)
